@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/takanori",
  "yomi": "みなもとのたかのりしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "室町後期",
+  "author": "木戸孝範",
+  "desc": "関東で活動した歌人、木戸孝範の家集。歌道の秘事を書いて奉った折の歌や、田舎住まいのころの述懐などを収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -1505,6 +1510,6 @@
   "poems": 130,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
